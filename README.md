@@ -22,6 +22,7 @@ Atualmente estudo e pratico:
 - Git
 - GitHub
 - Java
+- NodeJs
 
 Meu objetivo é transformar o conhecimento adquirido durante a graduação em projetos práticos e conquistar minha primeira oportunidade profissional na área de desenvolvimento.
 
