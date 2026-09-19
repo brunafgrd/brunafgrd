@@ -21,6 +21,7 @@ Atualmente estudo e pratico:
 - JavaScript
 - Git
 - GitHub
+- -Figma
 - Java
 - NodeJs
 
